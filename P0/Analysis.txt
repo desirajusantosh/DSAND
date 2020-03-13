@@ -1,0 +1,15 @@
+P0: Worst-Case Big-O Notation
+Task0-
+O(1) as we are accessing an element and printing it.
+
+Task1-
+O(n) as we are looping through all elements twice (separately) and printing once
+
+Task2-
+O(n) as we are looping though all elemets of calls. And O(n) twice as we are looking up list twice
+
+Task3- O(n + n log(n))
+O(n + n log(n)) as we are looping through all the elemts of calls. And Sorted taking O(n log(n)). And O(n) 4 times as we are looking up list 4 times.
+
+Task4-O(n + n log(n))
+O(n) as we are looping through all the elements of calls twice separately and O(n + n log(n)) as looping through all the elements of the sorted list to print
